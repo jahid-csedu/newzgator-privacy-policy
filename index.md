@@ -2,7 +2,7 @@
 
 **Effective date:** 12 October 2026
 
-NewzGator is a news reader for Android that brings together stories from Bangladeshi and English-language publishers. It is developed and operated by Md Jahid Hasan ("we", "us"). This policy explains what the app collects, why, and what you can do about it.
+NewzGator is a news reader for Android that brings together stories from Bangladeshi and English-language publishers. It is developed and operated by the NewzGator team ("we", "us"). This policy explains what the app collects, why, and what you can do about it.
 
 The short version: you can read everything without an account; the app sends a random device identifier and your reading actions to our server so that saved stories, reactions and recommendations work; signing in is optional and adds only the name, email and photo your sign-in provider shares; we show no ads and sell no data.
 
@@ -72,5 +72,5 @@ We will post any changes on this page and update the effective date. Material ch
 
 ## 10. Contact
 
-Md Jahid Hasan
-Email: jahid.csedu@gmail.com
+NewzGator
+Email: newzgator2025@gmail.com

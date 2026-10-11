@@ -4,7 +4,7 @@ You can have your NewzGator account and the data linked to it deleted at any tim
 
 ## How to request deletion
 
-Email **jahid.csedu@gmail.com** from the address you used to sign in, with the subject "Delete my NewzGator account". We confirm the deletion within 30 days, usually much sooner.
+Email **newzgator2025@gmail.com** from the address you used to sign in, with the subject "Delete my NewzGator account". We confirm the deletion within 30 days, usually much sooner.
 
 If you never signed in and want the reading actions recorded under your installation's device identifier removed, send the same email with the identifier shown under **About** in the app.
 
