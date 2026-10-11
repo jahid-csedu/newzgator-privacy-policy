@@ -2,13 +2,18 @@
 
 You can have your NewzGator account and the data linked to it deleted at any time.
 
-## How to request deletion
+## From the app
 
-Email **newzgator2025@gmail.com** from the address you used to sign in, with the subject "Delete my NewzGator account". We confirm the deletion within 30 days, usually much sooner.
+1. Open NewzGator, then **Profile** from the ⋮ menu.
+2. Tap **Delete account** and confirm.
 
-If you never signed in and want the reading actions recorded under your installation's device identifier removed, send the same email with the identifier shown under **About** in the app.
+Your account, saved stories, reactions and comments are removed from our server immediately, and the app returns to guest mode.
 
-An in-app "Delete account" option on the Profile screen is being added; once it is available, deletion from the app is immediate.
+## By email
+
+If you no longer have the app installed, email **newzgator2025@gmail.com** from the address you used to sign in, with the subject "Delete my NewzGator account". We confirm the deletion within 30 days, usually much sooner.
+
+If you never signed in and want the reading actions recorded under your installation's device identifier removed, send the same email with the identifier shown under **About** in the app (tap it to copy).
 
 ## What is deleted
 
