@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+
+        <p>{{ site.description }}</p>
+
+        <ul>
+          <li><a href="{{ "/" | relative_url }}">Privacy <strong>Policy</strong></a></li>
+          <li><a href="{{ "/delete-account" | relative_url }}">Delete <strong>account</strong></a></li>
+          <li><a href="{{ "/contact" | relative_url }}">Contact <strong>us</strong></a></li>
+        </ul>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p>Maintained by Team NewzGator<br><a href="mailto:newzgator2025@gmail.com">newzgator2025@gmail.com</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
