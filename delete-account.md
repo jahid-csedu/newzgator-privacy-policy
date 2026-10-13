@@ -1,5 +1,7 @@
 # Deleting your NewzGator account and data
 
+[Privacy Policy](./) · [Deleting your account](delete-account) · [Contact us](contact)
+
 You can have your NewzGator account and the data linked to it deleted at any time.
 
 ## From the app

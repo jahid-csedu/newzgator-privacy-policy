@@ -1,5 +1,7 @@
 # NewzGator Privacy Policy
 
+[Privacy Policy](./) · [Deleting your account](delete-account) · [Contact us](contact)
+
 **Effective date:** 12 October 2026
 
 NewzGator is a news reader for Android that brings together stories from Bangladeshi and English-language publishers. It is developed and operated by the NewzGator team ("we", "us"). This policy explains what the app collects, why, and what you can do about it.
@@ -70,7 +72,10 @@ NewzGator is not directed at children under 13 and we do not knowingly collect p
 
 We will post any changes on this page and update the effective date. Material changes will also be announced in the app.
 
-## 10. Contact
+## 10. Contact us
 
-NewzGator
-Email: newzgator2025@gmail.com
+NewzGator is developed by CodeGrid, Dhaka, Bangladesh.
+
+Email: [newzgator2025@gmail.com](mailto:newzgator2025@gmail.com)
+
+See the [Contact us](contact) page for more.
