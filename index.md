@@ -19,7 +19,7 @@ The short version: you can read everything without an account; the app sends a r
 
 ### If you sign in
 
-Signing in with Google, Facebook or X is optional. Everything in the app works without it; signing in keeps your saved stories, reactions and comments when you change or reset your phone. When you sign in, your provider shares your **name, email address and profile picture**, which we store with your account. We never receive your password.
+Signing in with Google or Facebook is optional. Everything in the app works without it; signing in keeps your saved stories, reactions and comments when you change or reset your phone. When you sign in, your provider shares your **name, email address and profile picture**, which we store with your account. We never receive your password.
 
 ### Stored only on your phone
 
@@ -42,7 +42,7 @@ We do not sell your data and we do not use it for advertising.
 
 - **Publishers.** Story photos and publisher logos are loaded directly from the publishers' own websites, so those sites see your IP address when images load, as they would in a web browser. Opening "Read the original" opens the publisher's site in your browser, where the publisher's own privacy policy applies.
 - **Google Firebase Cloud Messaging** delivers push notifications and holds your notification token. Google's privacy policy applies to that service.
-- **Sign-in providers** (Google, Facebook, X) when you choose to sign in with them.
+- **Sign-in providers** (Google, Facebook) when you choose to sign in with them.
 - **Hosting.** Our server and database run on Amazon Web Services. Anonymous service metrics (request counts and timings, server health) are sent to Grafana Cloud for monitoring; they contain no personal data.
 - **Public content.** Comments you post are visible to every reader of that story, together with the name and profile picture from your account.
 
